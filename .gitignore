@@ -1,0 +1,10 @@
+# Local dev tooling / preview server
+.freebuff/
+*.log
+
+# Local screenshots and scratch artifacts
+screenshots/
+
+# OS noise
+.DS_Store
+Thumbs.db
